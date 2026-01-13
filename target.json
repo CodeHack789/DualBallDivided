@@ -1,0 +1,18 @@
+{
+    "include": [
+        {
+            "keyboard": "dualballdivided",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=-DINIT_EE_HANDS_LEFT",
+            "name": "dualballdivided_vial_left"
+        },
+        {
+            "keyboard": "dualballdivided",
+            "keymap": "vial",
+            "target": "uf2",
+            "flags": "EXTRAFLAGS=-DINIT_EE_HANDS_RIGHT",
+            "name": "dualballdivided_vial_right"
+        }
+    ]
+}
